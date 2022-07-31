@@ -1,5 +1,4 @@
-# blackscholes_numericalmethods
-Comparing Accuracy and Efficiency of Numerical Methods for Solving the Black-Scholes Equation in European and American Options
+# Comparing Accuracy and Efficiency of Numerical Methods for Solving the Black-Scholes Equation in European and American Options
 
 
 This project presents analytical and numerical problem solving methods for the Black-Scholes equation, which is used for option pricing. 
